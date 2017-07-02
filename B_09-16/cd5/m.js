@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "Hour of the Olympics Ch 1.mp3";		
+f[2]	= "Hour of the Olympics Ch 10.mp3";		
+f[3]	= "Hour of the Olympics Ch 2-3.mp3";		
+f[4]	= "Hour of the Olympics Ch 4-5.mp3";		
+f[5]	= "Hour of the Olympics Ch 6-8.mp3";		
+f[6]	= "Hour of the Olympics Ch 9.mp3";		
+f[7]	= "Viking Ships at Sunrise Ch 3.mp3";		
+f[8]	= "Viking Ships at Sunrise Ch 4.mp3";		
+f[9]	= "Viking Ships at Sunrise Ch 5-6.mp3";		
+f[10]	= "Viking Ships at Sunrise Ch 7-8.mp3";		
+f[11]	= "Viking Ships at Sunrise Ch 9-10.mp3";		
