@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "Ghost Town at Sundown Ch 06.mp3";		
+f[2]	= "Ghost Town at Sundown Ch 07.mp3";		
+f[3]	= "Ghost Town at Sundown Ch 08.mp3";		
+f[4]	= "Ghost Town at Sundown Ch 09.mp3";		
+f[5]	= "Ghost Town at Sundown Ch 10.mp3";		
+f[6]	= "Lions at Lunchtime Ch 01.mp3";		
+f[7]	= "Lions at Lunchtime Ch 02.mp3";		
+f[8]	= "Lions at Lunchtime Ch 04.mp3";		
+f[9]	= "Lions at Lunchtime Ch 06.mp3";		
+f[10]	= "Lions at Lunchtime Ch 07.mp3";		
+f[11]	= "Lions at Lunchtime Ch 08.mp3";		
+f[12]	= "Lions at Lunchtime Ch 09.mp3";		
