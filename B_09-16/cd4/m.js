@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "Day of the Dragon King Ch 01.mp3";		
+f[2]	= "Day of the Dragon King Ch 02.mp3";		
+f[3]	= "Day of the Dragon King Ch 03 to 04.mp3";		
+f[4]	= "Day of the Dragon King Ch 05 to 06.mp3";		
+f[5]	= "Day of the Dragon King Ch 07.mp3";		
+f[6]	= "Day of the Dragon King Ch 08.mp3";		
+f[7]	= "Day of the Dragon King Ch 09.mp3";		
+f[8]	= "Day of the Dragon King Ch 10.mp3";		
+f[9]	= "Vacation Under the Volcano Ch 05 to 06.mp3";		
+f[10]	= "Vacation Under the Volcano Ch 07 to 08.mp3";		
+f[11]	= "Vacation Under the Volcano Ch 09 to 10.mp3";		
+f[12]	= "Viking Ships at Sunrise Ch 01.mp3";		
+f[13]	= "Viking Ships at Sunrise Ch 02.mp3";		
