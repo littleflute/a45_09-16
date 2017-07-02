@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "Polar Bears Past Bedtime Ch 01.mp3";		
+f[2]	= "Polar Bears Past Bedtime Ch 02.mp3";		
+f[3]	= "Polar Bears Past Bedtime Ch 03.mp3";		
+f[4]	= "Polar Bears Past Bedtime Ch 04.mp3";		
+f[5]	= "Polar Bears Past Bedtime Ch 05.mp3";		
+f[6]	= "Polar Bears Past Bedtime Ch 06.mp3";		
+f[7]	= "Polar Bears Past Bedtime Ch 07.mp3";		
+f[8]	= "Polar Bears Past Bedtime Ch 08.mp3";		
+f[9]	= "Polar Bears Past Bedtime Ch 09.mp3";		
+f[10]	= "Polar Bears Past Bedtime Ch 10.mp3";		
+f[11]	= "Polar Bears Past Bedtime Ch 11.mp3";		
